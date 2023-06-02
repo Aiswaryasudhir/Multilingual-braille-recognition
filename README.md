@@ -6,9 +6,14 @@ Our website provides the users with the choice of three languages English, hindi
 
 We have hosted and deployed the web application using flask on localhost.
 follow the instructions below to run Flask and access our web app:
-1-Clone the repository.
-2-Install python , anaconda (jupyter notebook) and spyder
+1- Clone the repository.
+
+2- Install python , anaconda (jupyter notebook) and spyder
+
 3- Navigate to the directory where this repository is downloaded.
+
 4- Open the jupyter notebook files for each language , pip install the necesaary modules and then run and save the model in the same directory.
+
 5- Open the flaskdeploy.py file in spyder and run it.
+
 6- the web application will be now available in your localhost with default port as 8000.
