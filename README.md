@@ -10,7 +10,7 @@ follow the instructions below to run Flask and access our web app:
 
 2- Install python , anaconda (jupyter notebook) and spyder
 
-3- Navigate to the directory where this repository is downloaded.
+3- Navigate to the directory where this repository is downloaded. Unzip the content folder which contains the dataset required for each language.
 
 4- Open the jupyter notebook files for each language , pip install the necesaary modules and then run and save the model in the same directory.
 
