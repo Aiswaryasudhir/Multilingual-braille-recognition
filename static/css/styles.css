@@ -1,0 +1,88 @@
+.nav-link{
+    font-size: 20px;
+    font-weight: 600;
+    color: #1A2B6D;
+}
+.banner{
+    background-color: #79a1af;
+}
+.nav-link:hover{
+    color:#79a1af;
+}
+.banner-text{
+    position:relative;
+    left:500px;
+    bottom:150px;
+    width:50%;
+    background-color: #F2F2F2;
+}
+h1{
+    color:#1A2B6D;
+    font-size:56px ;
+    font-family: 'Spinnaker', sans-serif;
+}
+hr{
+    width: 25%;
+    margin-left:0;
+    border: 1px solid #1A2B6D;
+}
+p{
+    font-family: 'Lato', sans-serif;
+    font-size:20px;
+}
+.features{
+    background-color:#1A2B6D;
+    padding-left:150px;
+    padding-top:100px;
+    height:500px;
+   
+}
+h2{
+    color:white;
+    font-size:48px ;
+    font-family: 'Spinnaker', sans-serif;
+}
+.card-title{
+    color:#1A2B6D;
+    font-size:36px ;
+    font-family: 'Spinnaker', sans-serif;
+}
+.upload{
+    padding: 5px 40px;
+    font-weight: 600;
+    color:#1A2B6D;
+    background-color: #79a1af;
+    border:#79a1af;
+}
+.languages{
+    position: relative;
+    bottom: 150px;
+    right:-70px;
+}
+#aboutpara{
+    font-size: 20px;
+    text-align: center;
+    padding: 50px;
+    color: #79a1af;
+    font-weight: 600;
+}
+.teamhead{
+    font-size: 36px;
+    color:#1A2B6D;
+    font-weight: 600;
+}
+.predictheading{
+    background-color: #F2F2F2;
+    text-align: center;
+    padding: 40px;
+    position: absolute;
+    bottom: 250px;
+    left: 250px;
+    width: 50%;
+}
+h4{
+    font-family: 'Spinnaker', sans-serif;
+    font-size:22px;
+    color:#648484;
+    font-weight:600;
+}
