@@ -241,7 +241,7 @@ def predicthindi():
             file_path = os.path.join('static/images', filename)
             file.save(file_path)
             img = read_image(file_path) #prepressing method
-            class_prediction=malayalamModel.predict(img) 
+            class_prediction=hindiModel.predict(img) 
             classes_x=np.argmax(class_prediction,axis=1)
             
             if classes_x == 0:
